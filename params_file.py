@@ -39,9 +39,6 @@ params = [
         "perPage": 100,
         "page": 0
     }
-
-
-
      
 ]
 
