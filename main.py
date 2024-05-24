@@ -391,4 +391,4 @@ if __name__ == "__main__":
     while True:
         logging.debug(f"Start Track")
         notifier.notify_products(params)
-        sleep(120)  # Sleep for .05 hours
+        sleep(180)  # Sleep for .05 hours
